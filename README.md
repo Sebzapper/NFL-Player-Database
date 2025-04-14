@@ -12,6 +12,4 @@ The goal of this project is to:
 - Python
 - BeautifulSoup
 - Matplotlib
-- Spyder
-
-# Folder Structure
+- Colab
