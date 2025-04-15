@@ -13,3 +13,21 @@ The goal of this project is to:
 - BeautifulSoup
 - Matplotlib
 - Colab
+
+## Running in Google Colab
+Follow these steps to run the project in Google Colab
+1. **Install dependencies**
+2. **Duplictae the repository**
+3. **Set up Python path**
+4. **Prepare Data**
+  - Use scraper.py to do this
+5. **Run the notebook**
+6. **Interact with the UI**
+  - Type a players name in the filter box to narrow down options
+  - Select a player from the dropdown
+  - View their percemntile rankings in a table (like the example below)
+
+![image](https://github.com/user-attachments/assets/fd3a3891-8327-4edd-8dc7-cff7b54b2b04)
+
+# Data
+All data from Pro-Football-Reference.com
